@@ -27,4 +27,4 @@ This repository contains a collection of mini console-based projects built using
 This repository is created to practice real-world mini problems using C#.
 
 ## 📌 Author
-- Your Name
+- Ezhumalai V
